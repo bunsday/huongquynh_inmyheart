@@ -1,8 +1,11 @@
 const CONFIG = {
     titleWeb: "Dứa_Xinh_Đẹp_Thông_Minh,",
     introTitle: 'Cho cô nàng Cute nhất thế giới aka Dứa Xinh đẹp - Cute - Đáng yêu nhất quả đấttt',
-    introDesc: `Không phải là bó hoa của chàng Nhóc đợi dưới cửa mà là món quà mà chàng Nhóc chuẩn bị mấy hôm nay. Và mong rằng cậu sẽ thích, và mong rằng đổi được một niềm vuiiii ^^`,
-    btnIntro: '^^HiHi^^',
+    introDesc: `Không phải bó hoa chàng Nhóc cầm chờ dưới cửa,
+mà là món quà chàng lặng lẽ ấp ủ bao ngày.
+Hy vọng khi mở ra, nụ cười sẽ nở,
+và tôi được đổi lấy một niềm vui thuộc về em... 💕`,
+    btnIntro: '^^Pặc Pặc <333^',
     title: ' Bằng tất cả sự chân thành, tớ muốn khởi động một buổi đi chơi vào ngày thứ 7 tuần này với chính cô nàng đang ngồi trước màn hình ^^ 🥰',
     desc: 'Thoát web là chấp nhận lời mời của tớ rồi nhé!!!',
     btnYes: 'Thích lắmmmm <33',
