@@ -10,7 +10,7 @@ const CONFIG = {
     question: 'Sao cậu lại đồng ý đi chơi với tớ thế hí hí <3',
     btnReply: 'Gửi cho bạn <3',
     reply: 'Tại cậuuuu ấyyyyy<33333333',
-    mess: 'Tớ biết mà 🥰.Thật là có mắt nhìn người quá điiii 😘😘',
+    mess: 'Tớ biết mà 🥰. Cậu thật là có đôi mắt đẹp và tinh tế có guuu😘😘',
     messDesc: 'Thứ 7 này, tớ qua đón đi chơi nhaaaa',
     btnAccept: 'Được gòiiiii <3',
     messLink: 'https://www.facebook.com/nqtruong2107' 
