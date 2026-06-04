@@ -6,7 +6,7 @@ mà là món quà chàng lặng lẽ ấp ủ bao ngày.
 Hy vọng khi mở ra, nụ cười sẽ nở,
 và tôi được đổi lấy một niềm vui thuộc về em... 💕`,
     btnIntro: '^^Pặc Pặc <333^',
-    title: ' Bằng tất cả sự chân thành, tớ muốn khởi động một buổi đi chơi vào ngày thứ 7 tuần này với chính cô nàng đang ngồi trước màn hình ^^ 🥰',
+    title: ' Bằng tất cả sự chân thành và mong mỏi. Tớ hi vọng được qua đón cô nàng xinh đẹp đang ngồi trước màn hình này đi chơi vào chiều thứ 7 tuần nàyyy ^^ 🥰',
     desc: 'Thoát web là chấp nhận lời mời của tớ rồi nhé!!!',
     btnYes: 'Thích lắmmmm <33',
     btnNo: 'Không à nha :3',
@@ -16,5 +16,5 @@ và tôi được đổi lấy một niềm vui thuộc về em... 💕`,
     mess: 'Tớ biết mà 🥰. Cậu thật là có đôi mắt đẹp và tinh tế có guuu😘😘',
     messDesc: 'Thứ 7 này, tớ qua đón đi chơi nhaaaa',
     btnAccept: 'Được gòiiiii <3',
-    messLink: 'https://www.facebook.com/nqtruong2107' 
+    messLink: 'https://www.youtube.com/watch?v=yoYv_ezmvqI&list=RDyoYv_ezmvqI&start_radio=1' 
 }
