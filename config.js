@@ -1,6 +1,6 @@
 const CONFIG = {
     titleWeb: "Dứa_Xinh_Đẹp_Thông_Minh,",
-    introTitle: 'Cho cô nàng Cute nhất thế giới aka Dứa Xinh đẹp - Cute - Đáng yêu nhất quả đấttt',
+    introTitle: 'Cho cô nàng Cute nhất thế giới aka Dứa Xinh đẹp - Tinh tế - Thông minh - Đáng yêu nhất quả đấttt',
     introDesc: `Không phải bó hoa chàng Nhóc cầm chờ dưới cửa,
 mà là món quà chàng lặng lẽ ấp ủ bao ngày.
 Hy vọng khi mở ra, nụ cười sẽ nở,
