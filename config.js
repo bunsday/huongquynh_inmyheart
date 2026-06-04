@@ -3,7 +3,7 @@ const CONFIG = {
     introTitle: 'Cho cô nàng Cute nhất thế giới aka Dứa Xinh đẹp - Tinh tế - Thông minh - Đáng yêu nhất quả đấttt',
     introDesc: `Không phải bó hoa chàng Nhóc cầm chờ dưới cửa,
 mà là món quà chàng lặng lẽ ấp ủ bao ngày.
-Hy vọng khi mở ra, nụ cười sẽ nở,
+Hy vọng khi mở ra, một nụ cười sẽ nở,
 và tôi được đổi lấy một niềm vui thuộc về em... 💕`,
     btnIntro: '^^Pặc Pặc <333^',
     title: ' Bằng tất cả sự chân thành và mong mỏi. Tớ hi vọng được qua đón cô nàng xinh đẹp đang ngồi trước màn hình này đi chơi vào chiều thứ 7 tuần nàyyy ^^ 🥰',
